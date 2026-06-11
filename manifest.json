@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "latestVersion": "1.0.0",
+  "packages": [
+    {
+      "version": "1.0.0",
+      "name": "poetry_data_v1.0.0.zip",
+      "url": "",
+      "sha256": "CFC3A6F7B93784B30C228BA27716FAECF98B55930FD2A010C33126BC11F7A95C",
+      "sizeBytes": 214498906,
+      "rootDir": "category-offline-xjy",
+      "releaseTag": "v1.0.0",
+      "createdAt": "2026-06-11"
+    }
+  ]
+}
