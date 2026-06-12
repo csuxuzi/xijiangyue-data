@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "latestVersion": "1.0.1",
+  "latestVersion": "1.0.2",
   "packages": [
     {
-      "version": "1.0.1",
-      "name": "poetry_data_v1.0.1.zip",
-      "url": "https://github.com/csuxuzi/xijiangyue-data/releases/download/v1.0.1/poetry_data_v1.0.1.zip",
-      "sha256": "6cfd82815f04972af8e3b5b03e1f3f60ddf178bc8d3da935401aadb568cc5264",
-      "sizeBytes": 214974248,
+      "version": "1.0.2",
+      "name": "poetry_data_v1.0.2.zip",
+      "url": "https://github.com/csuxuzi/xijiangyue-data/releases/download/v1.0.2/poetry_data_v1.0.2.zip",
+      "sha256": "09eca62218dbfc0c56900a3a367ae48b7e9fada198065453519b05e816013f91",
+      "sizeBytes": 218100257,
       "rootDir": "category-offline-xjy",
-      "releaseTag": "v1.0.1",
-      "createdAt": "2026-06-11T13:27:02.798149Z"
+      "releaseTag": "v1.0.2",
+      "createdAt": "2026-06-12T04:47:59.557594Z"
     }
   ]
 }
